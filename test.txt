@@ -23,4 +23,4 @@ spring.jpa.hibernate.ddl-auto=update
 mybatis.type-aliases-package=com.royal.demo.mapper
 
 #自定义属性
-com.whc.name=王洪超
+com.whc.name=王洪超2
